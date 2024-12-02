@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Dartin17/Prova2BimestreBCCLP2.git/static/css/main.d221dc40.css",
+    "main.js": "/Dartin17/Prova2BimestreBCCLP2.git/static/js/main.21b229bf.js",
+    "static/media/erro404.jpeg": "/Dartin17/Prova2BimestreBCCLP2.git/static/media/erro404.8e8a4008976a05cc954a.jpeg",
+    "index.html": "/Dartin17/Prova2BimestreBCCLP2.git/index.html",
+    "main.d221dc40.css.map": "/Dartin17/Prova2BimestreBCCLP2.git/static/css/main.d221dc40.css.map",
+    "main.21b229bf.js.map": "/Dartin17/Prova2BimestreBCCLP2.git/static/js/main.21b229bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d221dc40.css",
+    "static/js/main.21b229bf.js"
+  ]
+}
