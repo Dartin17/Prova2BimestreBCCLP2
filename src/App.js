@@ -9,10 +9,10 @@ function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<TelaHome />} />
-        <Route path="/usuario" element={<TelaCadastroUsuario />} />
-        <Route path="/login" element={<PaginaLogin />} /> {/* Rota para a página de login */}
-        <Route path="/chat" element={<TelaBatePapo />} />
+        <Route path="/Prova2BimestreBCCLP2" element={<TelaHome />} />
+        <Route path="/Prova2BimestreBCCLP2/usuario" element={<TelaCadastroUsuario />} />
+        <Route path="/Prova2BimestreBCCLP2/login" element={<PaginaLogin />} /> {/* Rota para a página de login */}
+        <Route path="/Prova2BimestreBCCLP2/chat" element={<TelaBatePapo />} />
         <Route path="*" element={<Tela404 />} />
       </Routes>
     </BrowserRouter>

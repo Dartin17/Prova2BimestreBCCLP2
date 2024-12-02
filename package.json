@@ -2,7 +2,7 @@
   "name": "bcclp2prova2b",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://usuario.github.io/BCCLP2Prova2B",
+  "homepage": "https://github.com/Dartin17/Prova2BimestreBCCLP2.git",
   "dependencies": {
     "@reduxjs/toolkit": "^2.3.0",
     "@testing-library/jest-dom": "^5.17.0",
